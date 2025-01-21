@@ -8,10 +8,18 @@ Below is the view for different sizes:
 
 <div style="display: flex; justify-content: center; ">
 <details>
+  <summary>Desktop</summary>
   <img src="images/ss1.png" alt="Fotoğraf 1" width="250">
-  <img src="images/ss2.png" alt="Fotoğraf 2" width="250">
-  <img src="images/ss3.png" alt="Fotoğraf 3" width="250">
 </details>
+<details>
+<summary>Laptop</summary>
+  <img src="images/ss2.png" alt="Fotoğraf 2" width="250">
+</details>
+<details>
+<summary>Mobile</summary>
+  <img src="images/ss3.png" alt="Fotoğraf 3" width="250">
+<details>
+
 </div>
 
 ---
