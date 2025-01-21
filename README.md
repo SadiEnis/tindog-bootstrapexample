@@ -18,12 +18,13 @@ Below is the view for different sizes:
     <details>
       <summary>Mobile</summary>
       <img src="images/ss3.png" alt="Fotoğraf 3" width="500">
-    <details>
+    </details>
   </div>
 </div>
+
 ---
 
 I used Bootstrap Examples for the web page. I revised the colors and structure. Below is an example:
-<div style="display: flex; justify-content: center; align-content: center;">
-  <img src="images/ss4.png" alt="Fotoğraf 4" width="500">
+<div style="display: flex;">
+  <img src="images/ss4.png" alt="Fotoğraf 4" width="500" style="justify-content: center; align-content: center;">
 </div>
