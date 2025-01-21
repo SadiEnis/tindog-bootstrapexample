@@ -6,7 +6,7 @@
 I used bootstrap snippets for the web page. I wanted to ensure that it was compatible with different widths and thus I wanted to obtain an image compatible with both mobile devices and computers.
 Below is the view for different sizes:
 
-<div style="display: flex; justify-content: center; align-content: center;">
+<div style="display: flex; justify-content: center;">
 <details>
   <summary>Desktop</summary>
   <img src="images/ss1.png" alt="Fotoğraf 1" width="500">
