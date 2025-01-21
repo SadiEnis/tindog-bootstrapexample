@@ -25,5 +25,6 @@ Below is the view for different sizes:
 ---
 
 I used Bootstrap Examples for the web page. I revised the colors and structure. Below is an example:
-
-<img src="images/ss4.png" alt="Fotoğraf 4" width="500">
+<div style="justify-content: center; align-content: center;">
+  <img src="images/ss4.png" alt="Fotoğraf 4" width="500">
+</div>
