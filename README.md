@@ -7,9 +7,11 @@ I used bootstrap snippets for the web page. I wanted to ensure that it was compa
 Below is the view for different sizes:
 
 <div style="display: flex; justify-content: center; ">
+<details>
   <img src="images/ss1.png" alt="Fotoğraf 1" width="250">
   <img src="images/ss2.png" alt="Fotoğraf 2" width="250">
   <img src="images/ss3.png" alt="Fotoğraf 3" width="250">
+</details>
 </div>
 
 ---
